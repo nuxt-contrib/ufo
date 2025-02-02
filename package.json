@@ -39,7 +39,7 @@
     "jiti": "^1.21.6",
     "prettier": "^3.3.3",
     "typescript": "^5.6.3",
-    "unbuild": "^2.0.0",
+    "unbuild": "^3.3.1",
     "untyped": "^1.5.1",
     "vitest": "^2.1.3"
   },
